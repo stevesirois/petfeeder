@@ -131,7 +131,7 @@ void loop() {
   if (problemFlag) {
     digitalWrite(LED, HIGH);
     do {
-      // Do nothing, something wrong!
+      manualClear();
     } while (true);
   }
 
@@ -290,6 +290,13 @@ void manualFeed(float fs) {
   }
 }
 
+void manualClear() {
+  if (digitalRead (SWT) == LOW) {
+    deBounce(LOW);
+    dumpFood();
+    scale.tare();
+  }
+}
 void feed(float targetWeight) {
   int noChangeCnt = 0;
   float weight = 0.0;
