@@ -29,3 +29,4 @@ This PCB board can be easily produce by using site as https://jlcpcb.com/ or htt
 12 M10 x 1.5mm nuts  
 12 M10 flat washer  
 4 M2 x 10mm screws
+4 M3\*50 bolt & nut
