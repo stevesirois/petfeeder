@@ -28,5 +28,5 @@ This PCB board can be easily produce by using site as https://jlcpcb.com/ or htt
 3 M10 x 500mm threaded rod  
 12 M10 x 1.5mm nuts  
 12 M10 flat washer  
-4 M2 x 10mm screws
-4 M3\*50 bolt & nut
+4 M2 x 10mm screws  
+4 M3 x 50mm bolt & nut 
