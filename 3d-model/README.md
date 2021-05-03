@@ -7,10 +7,9 @@ Version detail used with this file :
 OS: Ubuntu 20.04.2 LTS (Regolith:GNOME-Flashback:GNOME/regolith)  
 Word size of OS: 64-bit  
 Word size of FreeCAD: 64-bit  
-Version: 0.19.24267 (Git) AppImage  
+Version: 0.20.24693 (Git) AppImage  
 Build type: Release  
 Branch: master  
-Hash: b2ca86d8d72b636011a73394bf9bcdedb3b109b7  
 Python version: 3.8.6  
 Qt version: 5.12.5  
 Coin version: 4.0.0  
