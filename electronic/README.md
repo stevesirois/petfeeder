@@ -23,10 +23,17 @@ This PCB board can be easily produce by using site as https://jlcpcb.com/ or htt
 2 CONN HEADER R/A 3POS 2.54MM (Digikey PH1RB-03-UA)
 2 CONN HDR 15POS 0.1 TIN PCB (Digikey S7013-ND)
 
+### Hardware
+
 4 SHT MTL SCREW FLAT PHIL #0 1=1 (Digikey SR6001-ND)  
 2 M3\*16 bolt (for load cell)  
 3 M10 x 500mm threaded rod  
 12 M10 x 1.5mm nuts  
 12 M10 flat washer  
 4 M2 x 10mm screws  
-4 M3 x 50mm bolt & nut 
+4 M3 x 50mm bolt & nut  
+Epoxy glue - 5 min.  
+
+### Note
+
+For those who are not familiar with Autodesk Eagle (a.k.a. Eagle Cad), I generated the job files required to submit your order to JLCPCB in a sub folder.
